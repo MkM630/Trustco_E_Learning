@@ -1,7 +1,5 @@
 # Trustco E-Learning Platform
 
-![Trustco Logo](assets/logo.png)
-
 > A modern, responsive e-learning website built with React & Vite.
 
 **Table of Contents**
@@ -37,37 +35,42 @@ It offers:
 
 ### Home
 
-![Home Page](assets/screenshots/home.png)
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/a26d0b20-1358-469c-ace8-7cc8449c6573" />
+
 
 > Hero banner with headline, call-to-action, and company branding.
 
 ### Features
 
-![Features Section](assets/screenshots/features.png)
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/73e041c5-fd37-4974-9fc9-bdb79c156a63" />
+
 
 > Our core platform features: Learning Management, Content Creation, Analytics & Reports.
 
 ### Solutions
 
-![Solutions Section](assets/screenshots/solutions.png)
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/2a2d1d89-f1c2-4ba6-8502-d81f5de72b37" />
+
 
 > Tailored offerings for Enterprise, Education, and Healthcare sectors.
 
 ### Company
 
-![Company Section](assets/screenshots/company.png)
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/34afe796-1a21-4b8b-8461-88e4dcf998a6" />
+
 
 > Meet our leadership team with bios and headshots.
 
 ### Resources
 
-![Resources Section](assets/screenshots/resources.png)
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/2538c684-effe-4c36-847b-4282605b57a3" />
 
 > Free guides, templates, calculators, and demos.
 
 ### Contact
 
-![Contact Section](assets/screenshots/contact.png)
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/ae1aa46c-f348-4de9-bc7f-368ae38a9ffd" />
+
 
 > Office address, phone numbers, and email contacts.
 
