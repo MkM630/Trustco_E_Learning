@@ -20,7 +20,7 @@
 
 ## Overview
 
-Trustco is a fictional SaaS e-learning platform designed for sales and corporate training teams.  
+Trustco is a functional SaaS e-learning platform designed for sales and corporate training teams.  
 It offers:
 
 - Intuitive course creation & delivery  
